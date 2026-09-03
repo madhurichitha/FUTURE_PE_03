@@ -73,4 +73,88 @@ Use H3 subheadings wherever they improve readability and organization.
 - Avoid keyword stuffing.
 - Use the primary keyword naturally.
 - Include related terminology naturally.
-- Use
+- Use short paragraphs and scannable sections.
+- Add practical tips where appropriate.
+- Answer common user questions directly.
+
+## Local SEO Requirements
+
+Naturally incorporate relevant local context such as:
+
+- Bangalore
+- Bengaluru
+- Hair extensions in Bangalore
+- Choosing a hair salon in Bangalore
+
+Do not repeat location keywords unnaturally.
+
+## Internal Linking
+
+Suggest natural places where this pillar article can link to supporting articles in the content cluster.
+
+Supporting topics include:
+
+- Hair extension cost in Bangalore
+- Types of hair extensions
+- Hair extension maintenance
+- Hair extensions vs hair wigs
+- What to know before getting hair extensions
+
+Use descriptive anchor text rather than generic phrases such as "click here."
+
+## Accuracy & Safety
+
+Do not invent:
+
+- Customer reviews
+- Testimonials
+- Exact business prices
+- Discounts or offers
+- Certifications
+- Search volume
+- Ranking guarantees
+- Statistics without reliable sources
+- Business-specific claims that have not been verified
+
+If discussing prices, explain that costs vary depending on factors such as extension type, hair quality, length, quantity and salon.
+
+Do not make medical claims or guarantee a particular result.
+
+## Business Goal
+
+The article should help the business:
+
+- Attract relevant organic traffic
+- Build topical authority
+- Educate potential customers
+- Build trust
+- Encourage qualified enquiries
+- Support appointment or consultation requests
+
+## Reusability
+
+The prompt should be reusable for other local businesses.
+
+The following variables should be replaceable:
+
+- Business name
+- Location
+- Business type
+- Main service
+- Primary keyword
+- Search intent
+- Target audience
+- Blog topic
+
+## Expected Output
+
+Return the completed pillar article with:
+
+1. SEO title
+2. Meta description
+3. URL slug
+4. H1-H3 structure
+5. Long-form article
+6. FAQ section
+7. Internal linking suggestions
+8. Call to action
